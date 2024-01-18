@@ -27,8 +27,8 @@ SECRET_KEY = "django-insecure--dp*m2&efy+o_(cqjcacg(n#8m%)8e2ly07*&-ba(t!y1v9e)#
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://django-line-bot-48h4.onrender.com/",
-    "https://next-js-portfolio-frontend.vercel.app/",
+    "django-line-bot-48h4.onrender.com/",
+    "next-js-portfolio-frontend.vercel.app/",
 ]
 
 
